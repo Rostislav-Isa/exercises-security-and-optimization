@@ -1,2 +1,2 @@
-[Dockerfile]
+[Dockerfile*]
 insert_final_newline = true
